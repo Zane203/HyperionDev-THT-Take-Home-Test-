@@ -1,1 +1,4 @@
 # HyperionDev-THT-Take-Home-Test-
+## Welcome to my THT Solutions Workspace
+This is a repository where you will find my worked solution for the Take-Home-Test from Section A to Section C. Where I have completed a code review for a Java task on Section A. And recently completed a Data Science project for Section B, where I worked on exploring the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). The main aim of this project, for Section B, is to explore The GitHub History of the Scala Language, as I read in, clean up, and visualize different datasets as means to exercise my Data Manupilation skills, as well as Joining Data with Pandas. Moreover, for Section C I have completed a task for Option 4: International Standard Book Numbers, using Python.
+## Section A: Code Review - Java Task
