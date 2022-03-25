@@ -1,0 +1,7 @@
+Test Suite for the Code Challenge in Section C
+
+3303116245 - Valid
+2163850749 - Valid
+6082013948 - Valid
+8132092546 - Valid
+1526302985 - Valid
