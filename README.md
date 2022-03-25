@@ -72,3 +72,6 @@ not the 'function' keyword itself, and since the purpose of this function is cle
 should simply be an integer type. Other than that, the logic behind the function looks fine.
 
 ## Section B: Personal Project
+For this part of the THT, I have included the source code which is writen in Python and titled it as, Section B - Personal Project. I have also included all the datasets I have worked, which you can follow the instruction markdown of this project to understand where each dataset was used. And the best IDE to use to run this project is a Jupiter Notebook. 
+## Section C: Code Challenge
+For this part of the THT, I have included the source code, titled as Section C - Code Challenge. Where I have choosen to work on the International Standard Book Numbers task. It also coded in Python and Jupyter Notebook could be the best tool to review this task as well. Otherwise, I have also included the test suite with the valid ISBN-10.  
